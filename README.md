@@ -8,7 +8,7 @@ An analysis tool to assess arbitrage opportunities in Bitcoin and other cryptocu
 
 * **Pandas**  - A python library with advanced financial analysis tools.
 * **Jupyter Lab** - An IDE used for visualization.
-* **anaconda** - A python framework consisting of several tools used in financial analysis, such as Pandas.
+* **anaconda** - A python framework consisting of several tools used in financial analysis, such as Pandas and Jupyter Lab.
 
 ---
 
@@ -73,6 +73,9 @@ jupyter lab
 This command should automatically start the JupyterLab IDE in your browser.
 If it does not, follow the instructions in your terminal to get the local URL and launch Jupiter lab in your browser.
 
+### Running the Cryptage Workbook
+Once Jupyter Lab has started in your browser, select the **crypto_arbitrage.ipynb** workbook from the **Left Sidebar**.
+![launch workbook crypto_arbitrage.ipynb](images/Screen%20Shot%202022-04-09%20at%2010.21.55%20PM.png)
 
 ---
 
