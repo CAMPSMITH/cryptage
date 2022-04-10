@@ -73,9 +73,9 @@ jupyter lab
 This command should automatically start the JupyterLab IDE in your browser.
 If it does not, follow the instructions in your terminal to get the local URL and launch Jupiter lab in your browser.
 
-### Running the Cryptage Workbook
-Once Jupyter Lab has started in your browser, select the **crypto_arbitrage.ipynb** workbook from the **Left Sidebar**.
-![launch workbook crypto_arbitrage.ipynb](images/Screen%20Shot%202022-04-09%20at%2010.21.55%20PM.png)
+### Running the Cryptage Notebook
+Once Jupyter Lab has started in your browser, select the **crypto_arbitrage.ipynb** notebook from the **Left Sidebar**.
+![launch Notebook crypto_arbitrage.ipynb](images/Screen%20Shot%202022-04-09%20at%2010.21.55%20PM.png)
 
 ---
 
