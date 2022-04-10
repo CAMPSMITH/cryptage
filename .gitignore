@@ -132,5 +132,5 @@ dmypy.json
 .DS_Store
 
 # Other stuff
-# *.numbers
-# setenv.sh
+*.numbers
+setenv.sh
